@@ -1,0 +1,81 @@
+section{
+	background: url(../img/graph-tile.png);
+	background-repeat: repeat;
+}
+
+header{
+	background: url(../img/graph-tile.png);
+	background-repeat: repeat;
+}
+
+.box{
+	background-color: white;
+	background: white;
+	background-repeat: no-repeat;
+	border: 3px solid gray;
+	padding: 5%;
+	margin-bottom: 2%;
+}
+
+p{
+	font-family: 'PT Serif', serif;
+	margin: 2% 0;
+	width: 60%;
+	display: block;
+	margin: auto;
+}
+
+h1{
+	margin: 2% 0;
+	text-align: center;
+	color: red;
+	font-size: 250%;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h2{
+	margin: 2% 0;
+	text-align: center;
+	font-family: 'PT Serif', serif;
+	}
+
+h3{
+	margin: 2% 0;
+	text-align: center;
+	font-family: 'PT Serif', serif;
+	}
+
+h4{
+	margin: 2% 0;
+	text-align: center;
+	font-size: 100%;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.titulo{
+	color: red
+}
+.resize{
+    padding: 0px;
+    display: block;
+	margin: auto;
+}
+
+.texto--centrado{
+	margin-top: 2%;
+	text-align: center;
+}
+
+
+.margen{
+	margin-top: 2%;
+	margin-bottom: 5%;
+}
+
+footer{
+    background-color:white;  
+    color:  #808080; 
+    padding: 20px;
+    text-align: center; 
+    margin-bottom: 5%;
+}
